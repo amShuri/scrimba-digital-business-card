@@ -11,7 +11,7 @@ This project focuses on practicing:
 
 ## 🚀 Live Site
 
-[Netlify Link](https://app.netlify.com/projects/remarkable-croissant-9a3f9a/)
+[Netlify Link](https://remarkable-croissant-9a3f9a.netlify.app/)
 
 ## 🛠️ Tech Stack
 
